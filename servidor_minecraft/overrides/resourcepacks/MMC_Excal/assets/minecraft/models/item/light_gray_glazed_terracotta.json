@@ -1,0 +1,23 @@
+{
+    "parent": "block/white_tudor_cross",
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "item/white_tudor"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "item/white_tudor_left"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "item/white_tudor_right"
+        }
+    ]
+}
